@@ -1,6 +1,6 @@
 ![cover](https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/cover.png)
 
-## Hi, I'm Md Monjur Bakth Mazumder
+## Hi, I'm Md Arman Hossain Azad
 
  I am a junior frontend developer with a focus on the MERN stack. I excel at developing dynamic websites using React.js and have practical experience building a variety of web applications. I feel comfortable using Tailwind CSS for design with ReactJS on the frontend and Firebase for authentication. There is ignorance of using Node.js, Express.js, and MongoDB in the backend.
 
@@ -12,25 +12,25 @@
 ## Current Stats
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=monjurBakthMazumder&theme=merko&border=7F3FBF&background=0D1117" alt="monjurBakthMazumder's GitHub streak" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armanhossain15&theme=merko&border=7F3FBF&background=0D1117" alt="Armanhossain15's GitHub streak" width="100%"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=monjurBakthMazumder&show_icons=true&theme=highcontrast" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Armanhossain15&show_icons=true&theme=highcontrast" width="100%"/>
 </p>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monjurBakthMazumder&theme=outrun" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Armanhossain15&theme=outrun" width="100%"/>
 <a> 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monjurBakthMazumder&theme=outrun" width="49.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monjurBakthMazumder&theme=outrun&utcOffset=8" width="49.5%"/>
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Armanhossain15&theme=outrun" width="49.5%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Armanhossain15&theme=outrun&utcOffset=8" width="49.5%"/>
 </a>
 </p>
 
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-monjur-bakth-mazumder/" target="_blank">
+  <a href="https://www.linkedin.com/in/hossainarman/" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Linkedin.png">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100090451115337" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100039523970772" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/monjurBakthMazumder/monjurBakthMazumder/main/image/Facebook.png">
   </a>
 </p>
